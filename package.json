@@ -1,0 +1,24 @@
+{
+  "name": "user-e2e-authentication",
+  "version": "1.0.0",
+  "description": "Repository for e2e authentication service of users-crud app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kliver98/user-e2e-authentication.git"
+  },
+  "author": "kliver giron",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kliver98/user-e2e-authentication/issues"
+  },
+  "homepage": "https://github.com/kliver98/user-e2e-authentication#readme",
+  "devDependencies": {
+    "axios": "^0.21.1",
+    "chai": "^4.3.4",
+    "mocha": "^8.4.0"
+  }
+}
