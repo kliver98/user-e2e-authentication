@@ -4,7 +4,7 @@
   "description": "Repository for e2e authentication service of users-crud app",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha e2e/**/*.spec.js --timeout 10000"
   },
   "repository": {
     "type": "git",
@@ -19,6 +19,7 @@
   "devDependencies": {
     "axios": "^0.21.1",
     "chai": "^4.3.4",
+    "faker": "^5.5.3",
     "mocha": "^8.4.0"
   }
 }

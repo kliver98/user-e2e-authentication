@@ -1,3 +1,4 @@
 {
-    "baseUrl":"https://users-crud-authentication.herokuapp.com/api/latest/"
+    "baseUrl":"https://users-crud-authentication.herokuapp.com/api/latest/",
+    "baseUrlUserService":"https://users-crud-user.herokuapp.com/api/latest/"
 }
